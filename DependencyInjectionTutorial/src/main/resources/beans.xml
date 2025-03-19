@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">  
+<!-- DI inection using constructor  -->
+<bean  id="constructorbased" class="com.DependencyInjectionTutorial.Person">
+<constructor-arg name="name" value="narsing"></constructor-arg>
+<constructor-arg name="age" value="45"></constructor-arg>
+<constructor-arg name="surname" value="pendharkar"></constructor-arg>
+</bean>
+<!-- DI injection using setter method -->
+   <bean id="setterbased" class="com.DependencyInjectionTutorial.Person">
+   <property name="age" value="28"></property>
+   <property name="name" value="narsing"></property>
+   <property name="surname" value="pendharkar"></property>
+   </bean>
+   
+   
+   </beans>

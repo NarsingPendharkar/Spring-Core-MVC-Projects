@@ -1,0 +1,25 @@
+package com.springtutorial;
+
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
+import org.springframework.web.servlet.ModelAndView;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        
+        ApplicationContext context=new ClassPathXmlApplicationContext("bean.xml");
+        Student st=(Student) context.getBean("stdbean");
+        
+        
+        st.display();
+    }
+   
+   
+    
+}

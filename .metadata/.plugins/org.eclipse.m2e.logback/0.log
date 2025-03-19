@@ -1,0 +1,70 @@
+2025-03-19 21:19:21,570 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-03-19 21:21:09,222 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:Task_Manager:0.0.1-SNAPSHOT @ D:\Java\Spring Core & MVC Projects\Task_Manager(MVC)\pom.xml.
+2025-03-19 21:21:09,947 [Worker-21: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.6.0.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.6.0.Final
+2025-03-19 21:21:10,323 [Worker-21: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.6.0.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.6.0.Final
+2025-03-19 21:21:12,983 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Task_Manager(MVC)/src/main/java
+2025-03-19 21:21:12,988 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Task_Manager(MVC)/src/main/resources
+2025-03-19 21:21:12,990 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Task_Manager(MVC)/src/test/java
+2025-03-19 21:21:12,992 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Task_Manager(MVC)/src/test/resources
+2025-03-19 21:21:15,299 [Worker-21: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.6.0.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.6.0.Final
+2025-03-19 21:21:15,411 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2025-03-19 21:21:16,735 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:21:16,745 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-03-19 21:21:16,766 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:21:16,768 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-19 21:21:20,141 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:SpringPasswordEncodeDecode:0.0.1-SNAPSHOT @ D:\Java\Spring Core & MVC Projects\SpringPasswordEncodeDecode\pom.xml.
+2025-03-19 21:21:20,417 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringPasswordEncodeDecode/src/main/java
+2025-03-19 21:21:20,419 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringPasswordEncodeDecode/src/main/resources
+2025-03-19 21:21:20,420 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringPasswordEncodeDecode/src/test/java
+2025-03-19 21:21:20,421 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringPasswordEncodeDecode/src/test/resources
+2025-03-19 21:21:20,528 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-03-19 21:21:27,097 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java\Spring Core & MVC Projects\SpringPasswordEncodeDecode\src\main\resources
+2025-03-19 21:21:27,101 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java\Spring Core & MVC Projects\SpringPasswordEncodeDecode\src\test\resources
+2025-03-19 21:21:29,420 [Worker-23: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org:medcare:0.0.1-SNAPSHOT @ D:\Java\Spring Core & MVC Projects\medcare\pom.xml.
+2025-03-19 21:21:31,345 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medcare/src/main/java
+2025-03-19 21:21:31,346 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /medcare/src/main/resources
+2025-03-19 21:21:31,347 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /medcare/src/test/java
+2025-03-19 21:21:31,348 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /medcare/src/test/resources
+2025-03-19 21:21:33,123 [Worker-23: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-03-19 21:21:34,053 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:21:34,055 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:21:34,060 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:21:34,062 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-19 21:21:40,885 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:springtutorial:0.0.1-SNAPSHOT @ D:\Java\Spring Core & MVC Projects\SpringCoretutorial\pom.xml.
+2025-03-19 21:21:41,135 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCoretutorial/src/main/java
+2025-03-19 21:21:41,137 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCoretutorial/src/main/resources
+2025-03-19 21:21:41,150 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCoretutorial/src/test/java
+2025-03-19 21:21:41,151 [Worker-24: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCoretutorial/src/test/resources
+2025-03-19 21:21:41,249 [Worker-24: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-03-19 21:21:41,613 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:21:41,622 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java\Spring Core & MVC Projects\SpringCoretutorial\src\test\resources
+2025-03-19 21:22:14,168 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:22:14,173 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Java\Spring Core & MVC Projects\SpringCoretutorial\src\test\resources
+2025-03-19 21:23:40,988 [Worker-23: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:DependencyInjectionTutorial:0.0.1-SNAPSHOT @ D:\Java\Spring Core & MVC Projects\DependencyInjectionTutorial\pom.xml.
+2025-03-19 21:23:41,162 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DependencyInjectionTutorial/src/main/java
+2025-03-19 21:23:41,163 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DependencyInjectionTutorial/src/main/resources
+2025-03-19 21:23:41,163 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DependencyInjectionTutorial/src/test/java
+2025-03-19 21:23:41,164 [Worker-23: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DependencyInjectionTutorial/src/test/resources
+2025-03-19 21:23:41,221 [Worker-23: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-03-19 21:23:41,664 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-19 21:23:41,671 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-19 21:23:50,917 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com:Log:0.0.1-SNAPSHOT @ D:\Java\Spring Core & MVC Projects\LoginAppUsingServlet&JSP\pom.xml.
+2025-03-19 21:23:50,969 [Worker-27: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2025-03-19 21:23:51,076 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginAppUsingServlet&JSP/src/main/java
+2025-03-19 21:23:51,076 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginAppUsingServlet&JSP/src/main/resources
+2025-03-19 21:23:51,076 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LoginAppUsingServlet&JSP/src/test/java
+2025-03-19 21:23:51,077 [Worker-27: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LoginAppUsingServlet&JSP/src/test/resources
+2025-03-19 21:23:51,249 [Worker-27: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-03-19 21:23:51,604 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:23:51,606 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-19 21:23:51,611 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:23:51,613 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-03-19 21:26:03,171 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-03-19 21:26:03,261 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@76f85d64{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@41a8907e{STARTED}}
+2025-03-19 21:26:03,262 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-03-19 21:26:03,292 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@721d9465{HTTP/1.1, (http/1.1)}{127.0.0.1:56131}
+2025-03-19 21:26:03,301 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6983e91c{STARTING}[12.0.16,sto=0] @425618ms
+2025-03-19 21:26:42,120 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:26:42,121 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-03-19 21:26:42,128 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-19 21:26:42,129 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
