@@ -10,7 +10,6 @@
   <properties>
 		<spring.version>6.1.11</spring.version> <!-- Latest 5.x version -->
 		<hibernate.version>6.6.0.Final</hibernate.version> <!-- Latest 5.x version -->
-		
 	</properties>
   <dependencies>
   
